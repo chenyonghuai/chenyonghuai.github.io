@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: I`m a iOS Developer!
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
